@@ -1,0 +1,5 @@
+ofxAssimpModelLoader
+ofxDatGui
+ofxGui
+ofxKinect
+ofxPS3EyeGrabber
